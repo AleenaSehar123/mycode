@@ -39,3 +39,4 @@ def switch_function():
 
 print(switch_function())
     
+print("Added something new")
